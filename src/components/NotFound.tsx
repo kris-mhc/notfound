@@ -60,6 +60,7 @@ const searchContainerStyle: React.CSSProperties = {
   display: "flex",
   position: "relative",
   gap: "0.5rem",
+  marginTop: "1rem",
   maxWidth: "500px",
   width: "100%",
 };
