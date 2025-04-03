@@ -11,6 +11,7 @@
     "jsx": "react-jsx",
     "esModuleInterop": true,
     "skipLibCheck": true,
+    "emitDeclarationOnly": false,
     "forceConsistentCasingInFileNames": true
   },
   "include": ["src"],

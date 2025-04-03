@@ -1,2 +1,1 @@
-export * from '../index'
-export {}
+export { default as NotFound } from './components/NotFound';
