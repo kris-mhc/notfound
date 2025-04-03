@@ -61,7 +61,7 @@ const searchContainerStyle: React.CSSProperties = {
   position: "relative",
   gap: "0.5rem",
   marginTop: "1rem",
-  maxWidth: "500px",
+  maxWidth: "320px",
   width: "100%",
 };
 
