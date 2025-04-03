@@ -10,9 +10,13 @@ Currently, two official plugins are available:
 ## How to Use
 
 🔧 Set up repository in package.json
+
+```js
 "notfound": "git+https://github.com/[username]/notfound.git#main"
+```
 
 📦 Installation:
+
 ```js
 npm install notfound
 # or
