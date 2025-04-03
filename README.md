@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 ## How to Use
 
 🔧 Set up repository in package.json
-"notfound": "git+https://github.com/MHCAviation/notfound.git#main"
+"notfound": "git+https://github.com/[username]/notfound.git#main"
 
 📦 Installation:
 ```js
